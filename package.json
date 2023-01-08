@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sakonpatsamit/joker/issues"
   },
-  "homepage": "https://github.com/sakonpatsamit/joker#readme"
+  "homepage": "https://github.com/sakonpatsamit/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
