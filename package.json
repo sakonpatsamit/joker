@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "example-joker": "^0.0.4",
-    "give-me-a-joke": "^0.5.1"
+    "give-me-a-joke": "^0.5.1",
+    "sakon-the-joker": "^1.1.0"
   }
 }
