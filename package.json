@@ -1,5 +1,5 @@
 {
-  "example-joker": "joker",
+  "example-joker": "sakon-the-joker",
   "version": "1.1.0",
   "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions, etc",
   "main": "src/index.js",
