@@ -1,5 +1,5 @@
 {
-  "name": "joker",
+  "username-package": "joker",
   "version": "1.1.0",
   "description": "Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions, etc",
   "main": "src/index.js",
@@ -28,6 +28,7 @@
     "prettier": "^2.8.2"
   },
   "dependencies": {
+    "example-joker": "^0.0.4",
     "give-me-a-joke": "^0.5.1"
   }
 }
