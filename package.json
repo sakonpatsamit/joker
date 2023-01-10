@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/sakonpatsamit/joker#readme",
   "devDependencies": {
+    "eslint": "^8.31.0",
     "prettier": "^2.8.2"
   },
   "dependencies": {
