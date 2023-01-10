@@ -8,8 +8,5 @@
   "parserOptions": {
     "ecmaVersion": "latest"
   },
-  "rules": {},
-  "scripts": {
-    "lint": "eslint src/**/*.js"
-  }
+  "rules": {}
 }
